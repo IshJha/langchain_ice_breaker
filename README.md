@@ -1,6 +1,6 @@
-**LangChain Ice Breaker**/n
-**Information for comminication**/n
-Author: Ish Jha/n
+**LangChain Ice Breaker**
+**Information for comminication**
+Author: Ish Jha
 Contact info: ishjha1929@gmail.com / jha.13@alumni.iitj.ac.in (please feel free to contact for any doubts or collabrative projects !  )
 
 This project is designed to generate ice-breaking content about a person based on their LinkedIn profile. It leverages LangChain, Google Generative AI, and Tavily Search to fetch a LinkedIn profile, 
